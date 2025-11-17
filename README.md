@@ -1,4 +1,4 @@
-pokeprice
+pokebud - name pending
 
 website features:
   - page of pokemon cards wanted
@@ -14,7 +14,9 @@ pages:
   - binder page
 
 code:
-  - react - frontend
-  - vercel serverless function - backend
-  - github pages - host webstie
+  - API: PokémonPriceTracker
+  - frontend: react
+  - backend: vercel
+  - host: vercel
+
 
